@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BradyWill42
-- 👀 I’m interested in catching fat dubs
-- 🌱 I’m currently learning java in AP Comp Sci
+- 👀 I’m interested in FRC and FTC Programming
+- 🌱 I’m currently learning various languages
 - 💞️ I’m looking to collaborate on FRC Robotics
-- 📫 How to reach me Please Don't
+- 📫 How to reach me - Please Don't
 
 <!---
 BradyWill42/BradyWill42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
