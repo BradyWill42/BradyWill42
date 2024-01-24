@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BradyWill42
-- 👀 I’m interested in FRC and FTC Programming
-- 🌱 I’m currently learning various languages
+- 👀 I’m interested in Automation and Interning. 
+- 🌱 I’m currently learning about cybersecurity and linux
 - 💞️ I’m looking to collaborate on FRC Robotics and other projects 
 - 📫 How to reach me -
 - bradymwilliams22@gmail.com
