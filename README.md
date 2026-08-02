@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BradyWill42
-- 👀 I’m interested in Automation and Quantum Computing. 
+- 👀 I’m interested in Cybersecurity, Automation, and Quantum Computing. 
 - 🌱 I’m currently learning about cybersecurity and linux
 - 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me -
